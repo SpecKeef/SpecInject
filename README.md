@@ -21,3 +21,11 @@ git clone https://github.com/SpecKeef/SpecInject.git
 4.    Once the build process is complete, the compiled specInject executable will be generated.
 
 Now you are ready to use specInject!
+
+
+## Youtube series:
+
+Episode 1: https://www.youtube.com/watch?v=3TQBeovKm64
+Episode 2: Coming soon
+
+Create an issue in the issues tab with your bugs, or what features you would like to see :)
